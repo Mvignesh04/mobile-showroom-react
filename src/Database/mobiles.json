@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 69999,
+    "image": "../src/assets/ip.webp"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 59999,
+    "image": "../src/assets/samsung24.webp"
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "/images/oneplus-12.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Redmi Note 13",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "/images/redmi-note-13.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vivo V30",
+    "category": "Smartphone",
+    "brand": "Vivo",
+    "price": 33999,
+    "image": "/images/vivo-v30.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Oppo Reno 11",
+    "category": "Smartphone",
+    "brand": "Oppo",
+    "price": 29999,
+    "image": "/images/oppo-reno-11.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Realme Narzo 70",
+    "category": "Smartphone",
+    "brand": "Realme",
+    "price": 15999,
+    "image": "/images/realme-narzo-70.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Tab S9",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "price": 72999,
+    "image": "/images/galaxy-tab-s9.jpg"
+  },
+  {
+    "id": 9,
+    "name": "iPhone 15",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 59999,
+    "image": "/images/iphone-15.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Poco X6 Pro",
+    "category": "Smartphone",
+    "brand": "Poco",
+    "price": 24999,
+    "image": "/images/poco-x6-pro.jpg"
+  },
+  {
+    "id": 11,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_42.jpg"
+  },
+  {
+    "id": 12,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_45.jpg"
+  },
+  {
+    "id": 13,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_51.jpg"
+  },
+  {
+    "id": 14,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_60.jpg"
+  },
+  {
+    "id": 15,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_63.jpg"
+  },
+  {
+    "id": 16,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_66.jpg"
+  },
+  {
+    "id": 17,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_69.jpg"
+  },
+  {
+    "id": 18,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_75.jpg"
+  },
+  {
+    "id": 19,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_81.jpg"
+  },
+  {
+    "id": 20,
+    "name": "OnePlus 12",
+    "category": "Smartphone",
+    "brand": "OnePlus",
+    "price": 64999,
+    "image": "../src/assets/imgi_84.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Redmi Note 13",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_70.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Redmi Note 13 - Image 55",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_55.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Redmi Note 13 - Image 61",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_61.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Redmi Note 13 - Image 63",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_63.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Redmi Note 13 - Image 67",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_67.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Redmi Note 13 - Image 68",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_68.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Redmi Note 13 - Image 69",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 17999,
+    "image": "../src/assets/imgi_69.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Samsung Galaxy S25 Ultra",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 129999,
+    "image": "../src/assets/imgi_1.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Samsung Galaxy S25+",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 99999,
+    "image": "../src/assets/imgi_2.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Samsung Galaxy S25",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 80999,
+    "image": "../src/assets/imgi_3.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 109999,
+    "image": "../src/assets/imgi_4.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Samsung Galaxy S24+",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 79999,
+    "image": "../src/assets/imgi_12.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Samsung Galaxy S24",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 59999,
+    "image": "../src/assets/imgi_6.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Samsung Galaxy M17e 5G",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 164999,
+    "image": "../src/assets/imgi_7.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Samsung Galaxy Z Flip6",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 109999,
+    "image": "../src/assets/imgi_8.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Samsung Galaxy M17e 5G ",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 39999,
+    "image": "../src/assets/imgi_9.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Samsung Galaxy A37 Black 5G",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 30999,
+    "image": "../src/assets/imgi_10.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Samsung Galaxy A37 5G",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 26999,
+    "image": "../src/assets/imgi_11.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Samsung Galaxy S25 Ultra 5G",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 19999,
+    "image": "../src/assets/imgi_12.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Samsung Galaxy F55 5G",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 26999,
+    "image": "../src/assets/imgi_13.webp"
+  }
+]

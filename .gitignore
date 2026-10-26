@@ -10,8 +10,7 @@ build/
 .env.*
 !.env.example
 
-# Private database / credential files
-src/Database/
+src/Database/Creditions.json
 
 # Logs
 *.log
